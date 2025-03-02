@@ -1,5 +1,13 @@
 body {
-  font-family: Gill Sans, sans-serif;
-  background-color: salmon;
+  font-family: Tahoma;
+  background-color: #EAF8BF;
   text-align: center;
+}
+
+h1{
+  color:#001D4A;
+}
+
+h3{
+  color: #001D4A;
 }
